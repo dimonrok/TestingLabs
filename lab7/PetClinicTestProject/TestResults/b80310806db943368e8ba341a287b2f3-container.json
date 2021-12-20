@@ -1,0 +1,44 @@
+{
+  "uuid": "5bd447df-6bcd-4a16-885b-40dba3a09721-tc-0-1001",
+  "name": "PetClinicTestProject.Test2Test.test1(\"Horbenko\")",
+  "children": [
+    "1fd8f44c-0d8e-4953-acdf-301f58317cf1-tr-0-1002"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1640033991777,
+      "stop": 1640033991777
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1640033991778,
+      "stop": 1640033991778
+    }
+  ],
+  "links": [],
+  "start": 1640033971503,
+  "stop": 1640033991836
+}

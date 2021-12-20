@@ -1,0 +1,164 @@
+{
+  "uuid": "1fd8f44c-0d8e-4953-acdf-301f58317cf1-tr-0-1002",
+  "historyId": "PetClinicTestProject.Test2Test.test1(\"Horbenko\")",
+  "fullName": "PetClinicTestProject.Test2Test.test1(\"Horbenko\")",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "COMPUTER"
+    },
+    {
+      "name": "testClass",
+      "value": "PetClinicTestProject.Test2Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "test1"
+    },
+    {
+      "name": "package",
+      "value": "PetClinicTestProject.Test2Test"
+    },
+    {
+      "name": "suite",
+      "value": "Check add owner functionality"
+    }
+  ],
+  "links": [],
+  "name": "test1(\"Horbenko\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "test1(\"Horbenko\")"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "test1(\"Horbenko\")",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Add Owner test data",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640033971513,
+          "stop": 1640033971616
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640033990462,
+          "stop": 1640033990660
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640033990677,
+          "stop": 1640033990783
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640033990829,
+          "stop": 1640033990968
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640033990988,
+          "stop": 1640033991082
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640033991098,
+          "stop": 1640033991194
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "88e8204bfee448bc855bf001f6ce3869-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1640033971508,
+      "stop": 1640033991782
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "Horbenko"
+    }
+  ],
+  "start": 1640033971507,
+  "stop": 1640033991788
+}

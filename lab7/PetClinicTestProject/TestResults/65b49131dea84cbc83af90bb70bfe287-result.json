@@ -1,0 +1,164 @@
+{
+  "uuid": "d8866514-aa01-4c7e-840e-a162c210deb4-tr-0-1003",
+  "historyId": "PetClinicTestProject.Test2Test.test1(\"Shevchenko\")",
+  "fullName": "PetClinicTestProject.Test2Test.test1(\"Shevchenko\")",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "COMPUTER"
+    },
+    {
+      "name": "testClass",
+      "value": "PetClinicTestProject.Test2Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "test1"
+    },
+    {
+      "name": "package",
+      "value": "PetClinicTestProject.Test2Test"
+    },
+    {
+      "name": "suite",
+      "value": "Check add owner functionality"
+    }
+  ],
+  "links": [],
+  "name": "test1(\"Shevchenko\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "test1(\"Shevchenko\")"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "test1(\"Shevchenko\")",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Add Owner test data",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640033991852,
+          "stop": 1640033991854
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640034000400,
+          "stop": 1640034000494
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640034000511,
+          "stop": 1640034000628
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640034000642,
+          "stop": 1640034000773
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640034000790,
+          "stop": 1640034000901
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640034000914,
+          "stop": 1640034001010
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "3722c95c948e4efda22bfdbaef8bd4be-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1640033991852,
+      "stop": 1640034001306
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "Shevchenko"
+    }
+  ],
+  "start": 1640033991852,
+  "stop": 1640034001306
+}
