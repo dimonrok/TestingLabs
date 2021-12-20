@@ -1,0 +1,92 @@
+{
+  "uuid": "9cc47848-2a3b-44d2-8af6-b2d8c12e5136-tr-0-1003",
+  "historyId": "PetClinicTestProject.Test2Test.test2",
+  "fullName": "PetClinicTestProject.Test2Test.test2",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "COMPUTER"
+    },
+    {
+      "name": "testClass",
+      "value": "PetClinicTestProject.Test2Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "test2"
+    },
+    {
+      "name": "package",
+      "value": "PetClinicTestProject.Test2Test"
+    },
+    {
+      "name": "suite",
+      "value": "Check add owner functionality"
+    }
+  ],
+  "links": [],
+  "name": "test2",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#firstName\"}\n  (Session info: chrome=96.0.4664.110)",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)\r\n   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)\r\n   at OpenQA.Selenium.By.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.WebDriver.FindElement(By by)\r\n   at PetClinicTestProject.AddOwnerPage.get_firstNamefield() in D:\\lab4\\PetClinicTestProject\\PageObjects\\AddOwnerPage.cs:line 19\r\n   at PetClinicTestProject.Test2Test.test2() in D:\\lab4\\PetClinicTestProject\\tests\\addOwner.cs:line 51"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "test2",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#firstName\"}\n  (Session info: chrome=96.0.4664.110)",
+        "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)\r\n   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)\r\n   at OpenQA.Selenium.By.FindElement(ISearchContext context)\r\n   at OpenQA.Selenium.WebDriver.FindElement(By by)\r\n   at PetClinicTestProject.AddOwnerPage.get_firstNamefield() in D:\\lab4\\PetClinicTestProject\\PageObjects\\AddOwnerPage.cs:line 19\r\n   at PetClinicTestProject.Test2Test.test2() in D:\\lab4\\PetClinicTestProject\\tests\\addOwner.cs:line 51"
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Add Owner test data",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640024789330,
+          "stop": 1640024789333
+        }
+      ],
+      "attachments": [
+        {
+          "name": "test2_screenshot_637756287981200472.png",
+          "source": "28a22cf2d65a4312ab894b850cfc6283-attachment.png",
+          "type": "image/png"
+        },
+        {
+          "name": "Console Output",
+          "source": "150e298839b84845bd5a83de56c5b25b-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1640024789330,
+      "stop": 1640024798320
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1640024789330,
+  "stop": 1640024798320
+}

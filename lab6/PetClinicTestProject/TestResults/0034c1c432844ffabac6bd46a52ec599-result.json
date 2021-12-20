@@ -1,0 +1,159 @@
+{
+  "uuid": "a5496a65-5c3a-4755-b840-d485c8681390-tr-0-1002",
+  "historyId": "PetClinicTestProject.Test2Test.test1",
+  "fullName": "PetClinicTestProject.Test2Test.test1",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "COMPUTER"
+    },
+    {
+      "name": "testClass",
+      "value": "PetClinicTestProject.Test2Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "test1"
+    },
+    {
+      "name": "package",
+      "value": "PetClinicTestProject.Test2Test"
+    },
+    {
+      "name": "suite",
+      "value": "Check add owner functionality"
+    }
+  ],
+  "links": [],
+  "name": "test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "test1"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "test1",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "Add Owner test data",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640024779390,
+          "stop": 1640024779481
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640024788435,
+          "stop": 1640024788527
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640024788541,
+          "stop": 1640024788638
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640024788660,
+          "stop": 1640024788768
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640024788792,
+          "stop": 1640024788901
+        },
+        {
+          "name": "type new value",
+          "status": "passed",
+          "statusDetails": {
+            "known": false,
+            "muted": false,
+            "flaky": false
+          },
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1640024788913,
+          "stop": 1640024788993
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "c7f06873c16e46f998e8f59888b53534-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1640024779386,
+      "stop": 1640024789275
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1640024779385,
+  "stop": 1640024789282
+}
