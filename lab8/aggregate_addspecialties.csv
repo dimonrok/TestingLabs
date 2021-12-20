@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+http://20.50.171.10:9966/petclinic/api/specialties,20,128,62,211,223,232,45,232,"0,000%","18,33181","748,06","6,12"
+Test,10,257,253,268,268,279,246,279,"0,000%","8,70322","710,30","5,81"
+TOTAL,30,171,207,259,263,279,45,279,"0,000%","26,10966","1420,60","11,63"
